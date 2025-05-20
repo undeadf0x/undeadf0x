@@ -1,6 +1,3 @@
-<center><img src="./assets/avatar.png" height="200"></center>
-<!-- I'm aware <center> is deprecated, but it's stil technically supported by all browsers, and it's the only option I have here -->
-
 # Hey there!
 My name's Maggie! I'm a hobbyist (currently) developer, I mainly specialize in web development, but I'm learning a bit of C++, and I have experience in Python and Basic!
 
