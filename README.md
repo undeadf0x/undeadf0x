@@ -4,14 +4,20 @@
 # Hey there!
 My name's Maggie! I'm a hobbyist (currently) developer, I mainly specialize in web development, but I'm learning a bit of C++, and I have experience in Python and Basic!
 
-> [!IMPORTANT] Stuff to know
-> :globe_with_meridians: Web Dev
+> :keyboard: - 
+> <kbd>HTML, CSS, JS</kbd>
+> <kbd>C++</kbd>
 >
-> :bust_in_silhouette:
-> <kbd>Transfem</kbd>
-> <kbd>Furry</kbd>
+> :bust_in_silhouette: - 
 > <kbd>She/Her</kbd>
 > <kbd>They/Them</kbd>
+> <kbd>Transfem</kbd>
+> <kbd>Furry</kbd>
+> 💡Interests
 
-> [!NOTE] Github Stats
-> [![My Statcard](https://awesome-github-stats.azurewebsites.net/user-stats/undeadf0x?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+### Current Projects:
+- [Pixby](https://github.com/undeadf0x/pixby) - A pixel art editor made for the web
+### Finished/Inactive Projects
+- [WebEdit](https://github.com/undeadf0x/webeditor) - A single page (planned to be multipage) website editor on the web
+- [TextEdit](https://github.com/undeadf0x/textedit) - A minimal plain text editor using ACE editor
+- [Color Picker](https://github.com/undeadf0x/colorpicker) - An extremely minimal web color picker
